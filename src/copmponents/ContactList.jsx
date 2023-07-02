@@ -28,7 +28,7 @@ function ContactsList() {
       <input
         className="list__search"
         type="text"
-        placeholder="Search by Name, Phone or Email"
+        placeholder="Search"
         onChange={handleSearchChange}
       />
       <ul>
